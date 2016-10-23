@@ -1,0 +1,18 @@
+{
+  "name": "bruhbot",
+  "version": "1.0.0",
+  "description": "idk man",
+  "main": "bruhbot.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Andrew Li",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.3.3",
+    "restify": "^4.1.1"
+  }
+}
